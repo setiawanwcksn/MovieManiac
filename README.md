@@ -8,3 +8,10 @@ This is a website built using React Js + Vite configuration. This website will d
 - local storage: to store several variables
 
 and I also apply clean code principles as best as possible.
+
+Preview
+DarkMode
+<img width="1499" alt="image" src="https://github.com/setiawanwcksn/MovieManiac/assets/60248993/8c6decd9-00d2-42de-869e-a19d1cb61772">
+
+LightMode
+<img width="1463" alt="image" src="https://github.com/setiawanwcksn/MovieManiac/assets/60248993/00b60f29-08c7-472f-8a61-3146ea37589e">
