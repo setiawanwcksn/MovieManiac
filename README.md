@@ -6,6 +6,7 @@ This is a website built using React Js + Vite configuration. This website will d
 - sort and filter: to sort or/and filter films
 - dark/light mode: to change the website theme
 - local storage: to store several variables
+- Routers : to use single page application concepts
 
 and I also apply clean code principles as best as possible.
 
